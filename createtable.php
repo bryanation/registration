@@ -1,6 +1,6 @@
 <?php
 // DB connection info
-$host = "tcp:i4kafcgsvr.database.windows.net,1433 ";
+$host = "tcp:i4kafcgsvr.database.windows.net,1433";
 $user = "bryan@i4kafcgsvr";
 $pwd = "Sunlight1";
 $db = "registration";
