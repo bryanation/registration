@@ -25,10 +25,10 @@
 </form>
 <?php
 // DB connection info
-$host = "tprn072jf6.database.windows.net,1433";
-$user = "bryanation@pgxnxqcnil";
-$pwd = "Sexiest1";
-$db = "sqltest123";
+$host = "c6g5a61cwg.database.windows.net,1433";
+$user = "Bryanation@pgxnxqcnil";
+$pwd = "ilove_STPROF1";
+$db = "bryanatAC9AeH0nZ";
 // Connect to database.
 try {
     $conn = new PDO( "sqlsrv:Server= $host ; Database = $db ", $user, $pwd);
