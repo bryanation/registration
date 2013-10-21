@@ -1,9 +1,9 @@
 <?php
 // DB connection info
-$host = "c6g5a61cwg.database.windows.net,1433 ";
-$user = "Bryanation";
-$pwd = "ilove_STPROF1";
-$db = "bryanatAC9AeH0nZ";
+$host = "tcp:i4kafcgsvr.database.windows.net,1433 ";
+$user = "bryan@i4kafcgsvr";
+$pwd = "Sunlight1";
+$db = "registration";
 try{
     $conn = new PDO( "sqlsrv:Server= $host ; Database = $db ", $user, $pwd);
     $conn->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
