@@ -26,7 +26,7 @@
 <?php
 // DB connection info
 $host = "c6g5a61cwg.database.windows.net,1433 ";
-$user = "Bryanation@pgxnxqcnil";
+$user = "Bryanation";
 $pwd = "ilove_STPROF1";
 $db = "bryanatAC9AeH0nZ";
 // Connect to database.
