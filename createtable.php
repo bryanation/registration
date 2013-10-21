@@ -1,7 +1,7 @@
 <?php
 // DB connection info
 $host = "tprn072jf6.database.windows.net,1433";
-$user = "bryanation";
+$user = "bryanation@pgxnxqcnil";
 $pwd = "Sexiest1";
 $db = "sqltest123";
 try{
